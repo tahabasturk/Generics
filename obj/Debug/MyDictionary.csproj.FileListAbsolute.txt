@@ -1,0 +1,6 @@
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\MyDictionary.pdb
